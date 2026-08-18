@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "le_server.aternos.me",
-    "port": 53689,
-    "version": "26.2"
+    "ip": "servercaca-1WvR.aternos.me",
+    "port": 44901,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
